@@ -3,7 +3,7 @@
 Term: Spring 2021
 
 + Team #2
-+ Projec title: To tweet or not to tweet. Trump's deleted tweets.
++ Projec title: To tweet or not to tweet. Predicting Trump's deleted tweets.
 + Team members
 	+ Olha Maslova
 	+ Mark Morrissey
@@ -11,6 +11,8 @@ Term: Spring 2021
 	+ Yutong Yang
 	+ Yibai Liu
 	+ Daryl Kow
+
+<img src="figs/trump.png" width="200">
 
 + Project summary: In this project we want to explore which of the of the Donald Trump's tweets were deleted and try to build a predictive model. In order to do so, we create additional features using sentiment analysis and topic modeling. We also perform EDA to gain insights about the data we are working with. 
 	
