@@ -3,7 +3,7 @@
 Term: Spring 2021
 
 + Team #2
-+ Projec title: To tweet or not to tweet. Predicting Trump's deleted tweets.
++ Project title: <b>To Tweet or Not to Tweet: Predicting Trump's Deleted Tweets.</b>
 + Team members
 	+ Olha Maslova
 	+ Mark Morrissey
