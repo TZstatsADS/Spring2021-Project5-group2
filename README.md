@@ -19,7 +19,7 @@ Term: Spring 2021
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 + Individual Contributions:
-	+ Olha Maslova: Cleaned data for sentiment analysis. Researched various sentiment analysis techniques. Implemented Vader and TextBlob algorithms. Wrote 	github ReadMes. Contributed to PPT. 
+	+ Olha Maslova: Cleaned data for sentiment analysis. Researched various sentiment analysis techniques. Implemented Vader and TextBlob algorithms. Wrote Github READMEs. Contributed to PPT. 
 	+ Mark Morrissey: Cleaned data for topic modeling. Collaborated on implementing topic modeling and predictive model. Contributed to PPT. 
 	+ Amir Idris: Performed Exploratory Data Analysis and visualization. Contributed to presentation. 
 	+ Yutong Yang: Collaborated on implementing topic modeling. Lead the development of predictive model. Contributed to PPT. Presented the project. 
