@@ -14,7 +14,7 @@ Term: Spring 2021
 
 <img src="figs/trump.png" width="200">
 
-**Project summary:** In this project we want to explore which of the of the Donald Trump's tweets were deleted and try to build a predictive model. In order to do so, we create additional features using sentiment analysis and topic modeling. We also perform EDA to gain insights about the data we are working with. Our report can be found ([here](doc/main.pdf)). 
+**Project summary:** In this project we want to explore which of the of the Donald Trump's tweets were deleted and try to build a predictive model. In order to do so, we create additional features using sentiment analysis and topic modeling. We also perform EDA to gain insights about the data we are working with. Our report can be found [here](doc/main.pdf). 
 
 **Project Conclusion:** Twitter did not delete random tweets, or even tweets that were the most popular. Twitter appears to have followed their guidelines and deleted tweets relating to or spreading misinformation. This is why deletions are not random, and why certain topics come up among deletions frequently, such as the election (fraud).
 
